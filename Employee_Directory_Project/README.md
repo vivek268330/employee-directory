@@ -1,12 +1,12 @@
 # Employee Directory Web Page
 
-This is a simple and responsive **Employee Directory web page** created during my Web Development Internship at **Supertech Limited**.
+This is a simple and responsive **Employee Directory web page** created during my Web Development Internship.
 
 ## 👨‍💻 Developer Information
 
 - **Name:** Vivek Singh  
 - **College:** Sharda University  
-- **Internship:** Web Development Intern at Supertech Limited  
+- **Internship:** Web Development Intern 
 
 ## 📄 Project Overview
 
@@ -15,14 +15,13 @@ The Employee Directory web page displays a list of employees in a clean and stru
 ## 🛠️ Technologies Used
 
 - **HTML5** – Page structure  
-- **CSS3** – Styling and responsive layout (TailwindCSS if used)  
-- **JavaScript** – For dynamic elements like search or filters (if added)
+- **CSS3** – Styling and responsive layout   
+- **JavaScript** – For dynamic elements like search or filters 
 
 ## 📋 Features
 
 - Neatly organized employee cards or table layout  
-- Mobile and desktop responsive design  
-- Search functionality (if implemented)  
+- Mobile and desktop responsive design   
 - Clean and minimal UI
 
 ## 📁 Project Files Structure
@@ -31,14 +30,14 @@ The Employee Directory web page displays a list of employees in a clean and stru
 employee-directory/
 ├── index.html
 ├── style.css
-├── script.js   (if used)
-├── images/     (for profile pictures)
+├── script.js   
+├── images/     
 ├── README.md
 ```
 
 ## 📷 Screenshots
 
-*(Add a screenshot of your webpage here if available)*
+![Employee Directory Screenshot](images/screenshot.png)
 
 ## 📌 How to View
 
